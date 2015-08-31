@@ -1,0 +1,23 @@
+{
+  "name": "tpl-webpack-loader",
+  "version": "0.0.1",
+  "description": "require tpl polyfill for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jinphen/tpl-webpack-loader.git"
+  },
+  "keywords": [
+    "tpl",
+    "loader"
+  ],
+  "author": "jinphen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinphen/tpl-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/jinphen/tpl-webpack-loader"
+}
