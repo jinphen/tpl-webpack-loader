@@ -1,6 +1,6 @@
 {
   "name": "tpl-webpack-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "require tpl polyfill for webpack",
   "main": "index.js",
   "scripts": {

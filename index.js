@@ -4,7 +4,5 @@ module.exports = function (source) {
   var content = source.replace(/^\s*module.exports\s*=\s*/, '');
   var content = content.replace(/;\s*$/, '');
 
-  console.log(content);
-
   return "var _ = require('underscore'); \n module.exports = _.template(" + content + ")";
 }
